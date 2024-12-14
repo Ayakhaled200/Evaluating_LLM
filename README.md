@@ -1,4 +1,4 @@
-# Evaluating_LLM
+# Evaluating LLMs
 # **LLM Evaluation on Question Answering Datasets**
 
 ## 📋 **Overview**
