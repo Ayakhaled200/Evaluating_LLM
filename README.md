@@ -99,9 +99,9 @@ The evaluation revealed strengths and weaknesses in each LLM's ability to genera
 
 ---
 **Authors**
-Aya Khaled
-Yara Ramadan Zidan
-For questions or contributions, please contact [yukikhaled@gmail.com], [yarazedan980@gmail.com].
+- Aya Khaled
+- Yara Ramadan Zidan
+- For questions or contributions, please contact [yukikhaled@gmail.com], [yarazedan980@gmail.com].
 
 ---
 
